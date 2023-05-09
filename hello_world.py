@@ -1,2 +1,2 @@
 print('backup on github')
-print('Succee')
+print('Success')
